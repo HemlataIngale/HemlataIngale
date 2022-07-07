@@ -1,14 +1,6 @@
 ### Hi Developers 👋
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-Hemlata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemlata-ingale-b35828240/)](https://www.linkedin.com/in/hemlata-ingale-b35828240/)
-
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
-
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm Student learning BBA in Computer Application. I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have skills that include HTML, CSS, C, C++, Php, MySQL,etc.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/HemlataIgale/count.svg)
@@ -30,7 +22,7 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...gi
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
